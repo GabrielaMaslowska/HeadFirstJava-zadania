@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/rozdzial1/ZagadkowyBasen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/EchoTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/Magnetofon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/MagnetofonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/OdtwarzaczDVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/OdtwarzaczDVDTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/Perkusja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial2/PerkusjaTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +48,13 @@
     "last_opened_file_path": "C:/Users/Projektant/Desktop/java/apki/Test_github"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ZagadkowyBasen1">
-    <configuration name="Cwiczenie1A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1A" />
+  <component name="RunManager" selected="Application.EchoTester">
+    <configuration name="EchoTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial2.EchoTester" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="PATTERN" value="rozdzial2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cwiczenie1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1B" />
+    <configuration name="MagnetofonTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial2.MagnetofonTester" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="PATTERN" value="rozdzial2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cwiczenie1C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1C" />
+    <configuration name="OdtwarzaczDVDTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial2.OdtwarzaczDVDTester" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="PATTERN" value="rozdzial2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial1.Test" />
+    <configuration name="PerkusjaTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial2.PerkusjaTester" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="PATTERN" value="rozdzial2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EchoTester" />
+        <item itemvalue="Application.PerkusjaTester" />
+        <item itemvalue="Application.OdtwarzaczDVDTester" />
+        <item itemvalue="Application.MagnetofonTester" />
         <item itemvalue="Application.ZagadkowyBasen1" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Cwiczenie1C" />
-        <item itemvalue="Application.Cwiczenie1B" />
-        <item itemvalue="Application.Cwiczenie1A" />
       </list>
     </recent_temporary>
   </component>
