@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeadFirstJava-zadania.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Cwiczenie1A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Cwiczenie1B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Cwiczenie1C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Ukladanka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial1/ZagadkowyBasen1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +41,7 @@
     "last_opened_file_path": "C:/Users/Projektant/Desktop/java/apki/Test_github"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.ZagadkowyBasen1">
     <configuration name="Cwiczenie1A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1A" />
       <module name="HeadFirstJava-zadania" />
@@ -103,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ukladanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial1.Ukladanka" />
+    <configuration name="ZagadkowyBasen1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial1.ZagadkowyBasen1" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZagadkowyBasen1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Cwiczenie1C" />
         <item itemvalue="Application.Cwiczenie1B" />
         <item itemvalue="Application.Cwiczenie1A" />
-        <item itemvalue="Application.Ukladanka" />
       </list>
     </recent_temporary>
   </component>
