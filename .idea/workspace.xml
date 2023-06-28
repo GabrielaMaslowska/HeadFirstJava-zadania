@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HeadFirstJava-zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Cwiczenie1A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Cwiczenie1B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Cwiczenie1C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial1/Ukladanka.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RnAQ69f3sL5mnlbxEcgBqYtGw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Projektant/Desktop/java/apki/Test_github"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Cwiczenie1A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1A" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cwiczenie1B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1B" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cwiczenie1C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial1.Cwiczenie1C" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial1.Test" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ukladanka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial1.Ukladanka" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Cwiczenie1C" />
+        <item itemvalue="Application.Cwiczenie1B" />
+        <item itemvalue="Application.Cwiczenie1A" />
+        <item itemvalue="Application.Ukladanka" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="" />
+      <created>1687875451777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687875451777</updated>
+    </task>
+    <servers />
+  </component>
+</project>
