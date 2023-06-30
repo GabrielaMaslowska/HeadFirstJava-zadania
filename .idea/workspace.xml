@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/rozdzial4/XCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial4/Mix4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial4/ZagadkowyBasen4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial4/ZagadkowyBasen4b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial4/ZegarTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rozdzial1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rozdzial1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rozdzial4/Zegar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rozdzial4/Zegar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,39 +49,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.XCopy">
-    <configuration name="HobbiciTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial3.HobbiciTester" />
+  <component name="RunManager" selected="Application.ZagadkowyBasen4">
+    <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial4.Mix4" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KsiazkaTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial3.KsiazkaTester" />
-      <module name="HeadFirstJava-zadania" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rozdzial3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTablic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial3.TestTablic" />
-      <module name="HeadFirstJava-zadania" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rozdzial3.*" />
+          <option name="PATTERN" value="rozdzial4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +89,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZagadkowyBasen4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial4.ZagadkowyBasen4" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZegarTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial4.ZegarTester" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZagadkowyBasen4" />
+        <item itemvalue="Application.Mix4" />
+        <item itemvalue="Application.ZegarTester" />
         <item itemvalue="Application.XCopy" />
         <item itemvalue="Application.Trojkat" />
-        <item itemvalue="Application.TestTablic" />
-        <item itemvalue="Application.HobbiciTester" />
-        <item itemvalue="Application.KsiazkaTester" />
       </list>
     </recent_temporary>
   </component>
