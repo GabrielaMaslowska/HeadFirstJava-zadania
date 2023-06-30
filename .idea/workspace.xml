@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="" />
+    <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/rozdzial5/PetleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial5/Wyniki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +45,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ZagadkowyBasen4">
+  <component name="RunManager" selected="Application.PetleFor">
     <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rozdzial4.Mix4" />
       <module name="HeadFirstJava-zadania" />
@@ -55,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trojkat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial3.Trojkat" />
+    <configuration name="PetleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial5.PetleFor" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial3.*" />
+          <option name="PATTERN" value="rozdzial5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial4.XCopy" />
+    <configuration name="Wyniki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial5.Wyniki" />
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial4.*" />
+          <option name="PATTERN" value="rozdzial5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PetleFor" />
+        <item itemvalue="Application.Wyniki" />
         <item itemvalue="Application.ZagadkowyBasen4" />
         <item itemvalue="Application.Mix4" />
         <item itemvalue="Application.ZegarTester" />
-        <item itemvalue="Application.XCopy" />
-        <item itemvalue="Application.Trojkat" />
       </list>
     </recent_temporary>
   </component>
