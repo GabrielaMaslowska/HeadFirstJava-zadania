@@ -45,7 +45,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PetleFor">
+  <component name="RunManager" selected="Application.Wyniki">
     <configuration name="Mix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rozdzial4.Mix4" />
       <module name="HeadFirstJava-zadania" />
@@ -113,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PetleFor" />
         <item itemvalue="Application.Wyniki" />
+        <item itemvalue="Application.PetleFor" />
         <item itemvalue="Application.ZagadkowyBasen4" />
         <item itemvalue="Application.Mix4" />
         <item itemvalue="Application.ZegarTester" />

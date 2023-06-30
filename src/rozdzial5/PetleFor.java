@@ -6,7 +6,7 @@ public class PetleFor {
             for (int y = 4; y > 2; y--) {
                 System.out.println(x + " " + y);
             }
-            if (x == 1) {
+            if (x == 2) {
                 x++;
             }
         }

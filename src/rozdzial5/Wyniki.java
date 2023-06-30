@@ -7,7 +7,7 @@ public class Wyniki {
     }
 
     void doDziela() {
-        int y = 7;
+        int y = 6;
         for (int x = 1; x < 8; x++) {
             y++;
             if (x > 4) {
