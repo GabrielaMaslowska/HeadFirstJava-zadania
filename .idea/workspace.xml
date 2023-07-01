@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/rozdzial6/ArrayListMagnet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial7/PomieszaneKomunikaty7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListMagnet">
+  <component name="RunManager" selected="Application.PomieszaneKomunikaty7">
     <configuration name="ArrayListMagnet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rozdzial6.ArrayListMagnet" />
       <module name="HeadFirstJava-zadania" />
@@ -64,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="rozdzial5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PomieszaneKomunikaty7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rozdzial7.PomieszaneKomunikaty7" />
+      <module name="HeadFirstJava-zadania" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rozdzial7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZagadkowyBasen4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rozdzial4.ZagadkowyBasen4" />
-      <module name="HeadFirstJava-zadania" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rozdzial4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PomieszaneKomunikaty7" />
         <item itemvalue="Application.ArrayListMagnet" />
         <item itemvalue="Application.PomieszanePetleFor" />
         <item itemvalue="Application.PetleFor" />
         <item itemvalue="Application.Wyniki" />
-        <item itemvalue="Application.ZagadkowyBasen4" />
       </list>
     </recent_temporary>
   </component>
