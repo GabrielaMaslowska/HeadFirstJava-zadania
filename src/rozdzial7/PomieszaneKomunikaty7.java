@@ -28,9 +28,9 @@ public class PomieszaneKomunikaty7 {
         B b = new B();
         C c = new C();
         A a2 = new C();
-        a.m1(); //tu wstawiamy wersje kodu
-        b.m2(); //
-        c.m3(); //
+        a2.m1(); //tu wstawiamy wersje kodu
+        a2.m2(); //
+        a2.m3(); //
     }
 }
 
@@ -38,6 +38,6 @@ public class PomieszaneKomunikaty7 {
 //b.m1(); c.m2(); a.m3(); -> B - m1, A - m2, A - m3,
 //c.m1(); c.m2(); c.m3(); -> B - m1, A - m2, C - m3, 13
 //a.m1(); b.m2(); c.m3(); -> A - m1, A - m2, C - m3, 13
-//do dokonczenia
+//a2.m1(); a2.m2(); a2.m3(); -> B - m1, A - m2, C - m3, 13
 
 
