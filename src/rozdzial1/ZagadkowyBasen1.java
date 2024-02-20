@@ -4,20 +4,20 @@ public class ZagadkowyBasen1 {
     public static void main(String[] args) {
         int x = 0;
         while(x < 4) {
-            System.out.println("a");
+            System.out.print("a");
             if (x < 1) {
-                System.out.println(" ");
+                System.out.print(" ");
             }
-            System.out.println("n");
+            System.out.print("n");
             if (x > 1) {
-                System.out.println("tyczny");
+                System.out.print("tyczny");
                 x = x + 2 ;
             }
             if (x == 1) {
-                System.out.println("talek");
+                System.out.print("talek");
             }
             if (x < 1) {
-                System.out.println("asz");
+                System.out.print("asz");
             }
             System.out.println("");
             x = x + 1;
