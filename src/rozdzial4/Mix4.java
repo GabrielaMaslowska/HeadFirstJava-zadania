@@ -16,7 +16,6 @@ public class Mix4 {
         }
         System.out.println(ilosc + " " + m4a[1].licznik);
     }
-
     public int mozeNowa(int indeks) {
         if (indeks < 1) { //tu wstawiamy wersje kodu
             Mix4 m4 = new Mix4();
