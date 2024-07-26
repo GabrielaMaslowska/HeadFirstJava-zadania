@@ -13,16 +13,16 @@ public class PotworTester {
 }
 
 class Potwor {
-    boolean strasz(int d) {
+    boolean strasz(int x) {
         System.out.println("ałłuuuuu");
-        return true;
+        return false;
     }
 }
 
 class Wampir extends Potwor {
     boolean strasz(int x) {
         System.out.println("można gryza?");
-        return false;
+        return true;
     }
 }
 
