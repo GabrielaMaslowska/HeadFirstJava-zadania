@@ -1,18 +1,18 @@
 package rozdzial7;
 
-public class LodzWioslowa _ extends {
+public class LodzWioslowa extends Lodz{
     public _ wioslowanie() {
         System.out.println("wiosłuj Natasza");
     }
 }
 
-public class _ {
+public class Lodz {
     private int _;
     _ void _ (_) {
         dlugosc = dl;
     }
     public int getDlugosc() {
-        _ _;
+        return dl;
     }
     public _ plyn() {
         System.out.print("_");
@@ -20,10 +20,10 @@ public class _ {
 }
 
 public class TestLodzi {
-    _ _ _ main(String[] args) {
-        _ b1 = new Lodz();
-        LodzZaglowa b2 = new _ ();
-        LodzWioslowa _ = new LodzWioslowa();
+    public static void main(String[] args) {
+        Lodz b1 = new Lodz();
+        LodzZaglowa b2 = new LodzZaglowa();
+        LodzWioslowa b3 = new LodzWioslowa();
         b2.setDlugosc(32);
         b1._();
         b3._();
@@ -31,7 +31,7 @@ public class TestLodzi {
     }
 }
 
-public class _ _ Lodz {
+public class LodzZaglowa extends Lodz {
     public _ _ () {
         System.out.print("_");
     }
