@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="" />
+    <list default="true" id="b44da44f-7e5e-42d3-a72f-7729ea458703" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/rozdzial7/ZagadkowyBasen/Lodz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial7/ZagadkowyBasen/LodzZaglowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rozdzial7/ZagadkowyBasen/TestLodzi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rozdzial7/LodzWioslowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rozdzial7/ZagadkowyBasen/LodzWioslowa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +79,7 @@
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial7.*" />
+          <option name="PATTERN" value="rozdzial7.ZagadkowyBasen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,7 +105,7 @@
       <module name="HeadFirstJava-zadania" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rozdzial7.*" />
+          <option name="PATTERN" value="rozdzial7.ZagadkowyBasen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
